@@ -1,1 +1,1 @@
-Olá! Aqui depositarei meus códidos do curso de intridução à ciência da computação e programação em Python oferecido pela MIT. É gratuito e disponível em (https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
+Olá! Aqui depositarei meus códidos do curso de introdução à ciência da computação e programação em Python oferecido pela MIT. É gratuito e disponível em (https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/).
